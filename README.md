@@ -118,7 +118,9 @@ on remarque toutes les courbes sur cette figure.
 
 ![image](https://user-images.githubusercontent.com/85129301/149663806-258628f8-666d-402b-8a1d-916800b3fbe0.png)
 
-##Analyse fréquentielle du chant du rorqual bleu 
+
+
+## Analyse fréquentielle du chant du rorqual bleu 
 
 -*Il existe plusieurs signaux dont l’information est encodée dans des sinusoïdes. Les
 ondes sonores est un bon exemple. Considérons maintenant des données audios
