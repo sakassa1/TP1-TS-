@@ -1,6 +1,6 @@
 # Rapport TP1-TS Analyse spectrale d’un signal Transformée de Fourier discrète
 
-## réalisé par SAKASSA RACHID
+## réalisé par SAKASSA/BENZEMROUN
 Pr. AMMOUR Alae
 
 ## Objectifs
